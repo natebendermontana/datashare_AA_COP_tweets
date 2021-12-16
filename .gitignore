@@ -1,6 +1,7 @@
 *.txt
 *.py
 data/
+COP26_schedule
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
