@@ -14,3 +14,7 @@ The two files you'll want to review for this project are:
 2) COP_analyis_sentimentanalysis_submission  (LDA and sentiment analysis)
 
 The _LexExpansion file is an attempt at a lexical expansion-focused analysis that is incomplete and not part of the final product. 
+
+## Feedback
+
+Nice work on the write up and organization of your README. All your work in the analysis file is strong. I love the topic chart and the sentiment analysis over time chart. As we discussed in the LDA, these are really nice groups and interpretation. 
