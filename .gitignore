@@ -1,5 +1,6 @@
 *.png
 *.txt
+*.zip
 *.py
 data/
 COP26_schedule
